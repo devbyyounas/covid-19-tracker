@@ -122,7 +122,7 @@ class _WorldStatsState extends State<WorldStats> with TickerProviderStateMixin {
                               context,
                               MaterialPageRoute(
                                 builder: (context) =>
-                                    const CountriesListScreen(),
+                                    const CountriesListScreen (),
                               ),
                             );
                           },
